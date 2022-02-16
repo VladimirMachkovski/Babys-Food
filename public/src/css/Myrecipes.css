@@ -1,0 +1,155 @@
+#myrecipe{
+  width: 1247px;
+  margin: 52px 88px 0px;  
+}
+.myrecipes-div1{
+  width: 1247px;
+  margin-top:83px;
+  margin-left: 88px;
+  display: flex;
+  justify-content: space-between;
+}
+.myrecipes-title{
+  top: 193px;
+  left: 336px;
+  width: 210px;
+  height: 48px;
+  color: #96BB36;
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+  font-size: 36px;
+  letter-spacing: 0px;
+  color: #96BB36;
+  opacity: 1;
+}
+.myrecipes-line{
+  width:1000px;
+  height: 1px;
+  background-color: #A5A5A5;
+  margin-top: 65px;
+}
+.icon_plus_white{
+  margin: 12px 11.4px 11px 11px;
+  top: 207px;
+  left: 1553px;
+  width: 18px;
+  height: 19px;  
+  opacity: 1;
+}
+.myrecipes-div1 :any-link{
+margin-top: 30px;
+top: 196px;
+left: 1542px;
+width: 41px;
+height: 41px;
+border-radius: 50%;
+background: #F0972A 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+align-items: center;
+}
+#table{
+  width: 1245px;
+  margin: 51px 0px 0px 88px;  
+}
+#thead{
+  width: 1245px;
+  display: flex;
+  justify-content: space-between;
+}
+#thead h4:nth-child(1){
+  margin: 0px 125px 0px 32px;
+  padding: 0;  
+  width: 126px;
+  height: 21px;  
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto;  
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+#thead h4:nth-child(2){  
+  margin: 0;
+  padding: 0; 
+  width: 82px;
+  height: 21px;  
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto;  
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+#thead h4:nth-child(3){
+  margin: 0px 0px 0px 142px;
+  padding: 0;  
+  width: 90px;
+  height: 21px;  
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto;  
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+#thead h4:nth-child(4){
+  margin: 0px 31px 0px 579px;
+  padding: 0; 
+  width: 46px;
+  height: 21px;
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+ :any-link{
+  text-decoration: none;
+}
+.div-tr-h4{ 
+  width: 1245px;
+  margin: 17px 0px 5px 0px;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  align-items: center;  
+}
+.div-h4{
+  display: flex;
+  justify-content: space-between;
+  width: 1170px;
+}
+.div-h4 h4:nth-child(1){ 
+  margin: 20px 125px 0px 32px;
+  width: 126px;
+  height: 21px;  
+  font: normal normal bold 16px/21px Roboto;
+  letter-spacing: 0px;
+  color: #A5A5A5;
+  opacity: 1;
+}
+.div-h4 h4:nth-child(2){
+  padding: 4px 2px;
+  width: 82px;
+  height: 16px;
+  text-align: center;
+  font: normal normal bold 12px/16px Roboto;
+  background-color: #96BB36;
+  border-radius: 5px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.div-h4 h4:nth-child(3){ 
+  margin: 20px 585px 20px 145px;  
+  width: 81px;
+  height: 21px;
+  text-align: left;
+  font: normal normal normal 16px/21px Roboto;
+  letter-spacing: 0px;
+  color: #A5A5A5;
+  opacity: 1;
+}
+.icon-trashcan{
+  margin:20px 45px 20px 0px;
+}

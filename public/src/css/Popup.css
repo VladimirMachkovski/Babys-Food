@@ -1,0 +1,201 @@
+#popup-main{
+  position: fixed;
+  background-color: rgba(243, 243, 243, 0.5);
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 100;
+}
+
+#popup-div{
+  position: relative;
+  width: 50%;
+  min-height: 300px;
+  background-color: #FFF;
+  border: 1px solid #999;
+  border-radius: 4px;
+  margin: 20px auto;
+  padding: 20px;
+  overflow: auto;
+  width: 1027px;
+  height: 599px;
+  padding: 22px 26px 31px 32px;
+  background:#FFFFFF;
+  overflow: hidden;
+}
+.div-popup-title{
+  width: 969px;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.popup-title{
+  margin: 0;
+  padding: 0;
+  width: 467px;
+  height: 50px;
+  text-align: left;
+  font: normal normal bold 38px/50px Roboto Slab;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;  
+}
+.icon_close{
+  margin: 0;
+  padding: 0;
+  width: 37px;
+  height: 37px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.div-img-text{
+  margin: 22px 0px 0px 0px;
+  padding: 0;
+  width: 969px;
+  height: 475px;
+  display: flex;
+  justify-content: space-between;
+}
+.div1-img1-text1{
+  margin: 0px 43px 0px 0px;
+  padding: 0;
+  width: 412px;
+  height: 475px;
+}
+.popup-img{
+  margin: 0;
+  padding: 0;
+  width: 412px;
+  height: 243px;
+}
+.div-under-pic{
+  margin: 21px 0px 16px 0px;
+  padding: 0;
+  width: 412px;
+  height: 26px;
+  display: flex;
+  justify-content: space-between;
+}
+.best{
+  margin: 0;
+  padding: 0;
+  width: 134px;
+  height: 24px;
+  text-align: left;
+  font: normal normal bold 18px/24px Roboto Slab;
+  letter-spacing: 0px;
+  color: #96BB36;
+  opacity: 1;
+}
+.popup-meal{
+  margin: 0;
+  padding: 4px 11px 0px;
+  width: 61px;
+  height: 26px;
+  text-align: center;
+  color: #FFFFFF;
+  background: #96BB36 0% 0% no-repeat padding-box;
+  border-radius: 15px;
+  opacity: 1;
+}
+.popup-min-par{
+  margin: 0;
+  padding: 0;
+  width: 412px;
+  height: 126px;
+  text-align: left;
+  font: normal normal normal 16px/21px Roboto;
+  letter-spacing: 0px;
+  color: #A5A5A5;
+  opacity: 1;
+}
+.articles{
+  margin: 0;
+  padding: 0;
+  width: 211px;
+  height: 17px;
+  display: flex;
+  justify-content: space-between;
+}
+.popup-pic1{
+  width: 16px;
+  height: 16px;  
+  background: #FFFFFF;
+  opacity: 1;
+}
+
+.popup-pic2{
+  margin: 0;
+  width: 16px;
+  height: 16px;
+  background: #FFFFFF;
+  opacity: 1;
+}
+.popup-pic3{
+  margin: 0;
+  width: 16px;
+  height: 16px;
+  opacity: 1;
+}
+.pop-preparation-time{
+  margin: 0;
+  width: 52px;
+  height: 16px;  
+  text-align: left;
+  font: normal normal bold 12px/16px Roboto Slab;
+  letter-spacing: 0px;
+  color: #626262;
+  opacity: 1;
+}
+.pop-no-people{
+  margin: 0;
+  margin: 0;
+  width: 67px;
+  height: 16px;  
+  text-align: left;
+  font: normal normal bold 12px/16px Roboto Slab;
+  letter-spacing: 0px;
+  color: #626262;
+  opacity: 1;
+}
+.popup-likes{
+  margin: 0;
+  width: 25px;
+  height: 16px;  
+  text-align: left;
+  font: normal normal bold 12px/16px Roboto Slab;
+  letter-spacing: 0px;
+  color: #626262;
+  opacity: 1;
+}
+.div2-img2-text2{
+  margin: 0;
+  padding: 0;
+  width: 504px;
+  height: 465px;
+}
+.recipe-details{
+  margin: 0px 0px 15px;
+  padding: 0;
+  width: 122px;
+  height: 24px;
+  text-align: left;
+  font: normal normal bold 18px/24px Roboto Slab;
+  letter-spacing: 0px;
+  color: #96BB36;
+  opacity: 1;    
+}
+.popup-max-par{
+  margin: 0;
+  padding: 0;
+  width: 504px;
+  height: 436px;
+  text-align: left;
+  font: normal normal normal 16px/21px Roboto;
+  letter-spacing: 0px;
+  color: #A5A5A5;
+  opacity: 1;
+}

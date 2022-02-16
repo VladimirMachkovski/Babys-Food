@@ -1,0 +1,34 @@
+{
+  "name": "Baybs-food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "auth": "nodemon services/auth/index.js",
+    "recipe": "nodemon services/recipe/index.js",
+    "storage": "nodemon services/storage/index.js",
+    "proxy": "nodemon services/proxy/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirMachkovski/My-first-webside.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladimirMachkovski/My-first-webside/issues"
+  },
+  "homepage": "https://github.com/VladimirMachkovski/My-first-webside#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-http-proxy": "^1.6.3",
+    "express-jwt": "^6.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.14",
+    "node-input-validator": "^4.5.0"
+  }
+}

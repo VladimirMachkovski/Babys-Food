@@ -1,0 +1,253 @@
+#myprofile{
+  width: 1247px;
+  margin: 52px 88px 0px;
+}
+.myprofile-div1{
+  margin-top: 83px;
+  display: flex;
+  justify-content: space-between;
+}
+.avatar-div{
+  text-align: center;
+}
+.myprofile-title{
+  top: 193px;
+  left: 336px;
+  width: 250px;
+  height: 48px;  
+  text-align: left;
+  font: normal normal bold 36px/48px Roboto Slab;
+  font-size: 36px;
+  letter-spacing: 0px;
+  color: #96BB36;
+  opacity: 1; 
+}
+.myprofile-line{
+  width: 1400px;
+  height: 1px;
+  background-color:#A5A5A5 ;
+  margin-top: 65px;
+}
+.myprofile-main-div{
+  margin-top: 90px;
+  display: flex;
+  justify-content: flex-start;
+}
+.myprofile-pic2{
+  top: 331px;
+  left: 361px;
+  width: 123px;
+  height: 123px;  
+  border-radius: 50%;
+}
+.change-avatar{
+  top: 489px;
+  left: 336px;
+  width: 174px;
+  height: 32px;  
+  border-radius: 5px;
+  background-color: #F8F7F2;
+  color: #A5A5A5;
+  border: 1px solid #A5A5A5;
+  opacity: 1;
+}
+.myprofile-inputs{
+  margin-left: 97px;
+  display: flex;
+  justify-content:space-between;
+}
+.myprofile-inputs2{
+  margin-left: 33px;
+}
+.myprofile-div2{
+  top: 331px;
+  left: 606px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.myprofile-div3{
+  top: 418px;
+  left: 606px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.myprofile-div4{
+  top: 519px;
+  left: 606px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.myprofile-div5{
+  top: 331px;
+  left: 933px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.myprofile-div6{
+  top: 418px;
+  left: 933px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.myprofile-div7{
+  top: 519px;
+  left: 933px;
+  width: 294px;
+  height: 71px;
+  opacity: 1; 
+}
+.myprofile-h51{
+  margin:16px 0px 10px 0px;
+  top: 331px;
+  left: 606px;
+  width: 100px;
+  height: 21px;  
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto Slab;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+.myprofile-h52{
+  margin:16px 0px 10px 0px;
+  top: 418px;
+  left: 606px;
+  width: 44px;
+  height: 21px;  
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto Slab;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+.myprofile-h53{
+  margin:30px 0px 10px 0px;
+  top: 519px;
+  left: 606px;
+  width: 73px;
+  height: 21px;
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto Slab;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+.myprofile-h54{
+  margin:16px 0px 10px 0px;
+  top: 331px;
+  left: 933px;
+  width: 81px;
+  height: 21px;  
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto Slab;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+.myprofile-h55{
+  margin:16px 0px 10px 0px;
+  top: 418px;
+  left: 933px;
+  width: 66px;
+  height: 21px;  
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto Slab;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1; 
+}
+.myprofile-h56{
+  margin:30px 0px 10px 0px;
+  top: 519px;
+  left: 933px;
+  width: 150px;
+  height: 21px;  
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto Slab;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+.myprofile-input1{
+  top: 362px;
+  left: 606px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}  
+.myprofile-input2{
+  top: 449px;
+  left: 606px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}  
+.myprofile-input3{
+  top: 550px;
+  left: 606px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}  
+.myprofile-input4{
+  top: 362px;
+  left: 933px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}  
+.myprofile-input5{
+  top: 449px;
+  left: 933px;
+  width: 294px;
+  height: 40px; 
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}  
+.myprofile-input6{
+  top: 550px;
+  left: 933px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}  
+.myprofile-save{
+  margin-top: 42px;
+  top: 632px;
+  left: 606px;
+  width: 124px;
+  height: 40px;  
+  border-radius: 5px;
+  color: white;
+  background: #96BB36 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}

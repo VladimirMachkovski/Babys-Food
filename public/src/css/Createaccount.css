@@ -1,0 +1,214 @@
+#createaccount{
+  width: 1247px;
+  height: 505px;
+  margin:83px 88px 0px ;
+}
+.createaccount-div1{
+  display: flex;
+  justify-content: space-between;
+}
+.createaccount-line{
+  width: 1000px;
+  height: 1px;
+  margin-top: 65px;
+  background-color: #A5A5A5;
+}
+.createaccount-title{
+  top: 193px;
+  left: 336px;
+  width: 280px;
+  height: 48px;
+  text-align: left;
+  font: normal normal bold 36px/48px Roboto Slab;
+  font-size: 36px;
+  letter-spacing: 0px;
+  color: #96BB36;
+  opacity: 1;
+}
+.createaccount-container{
+  display: flex;
+  justify-content:flex-start;  
+}
+.createyouraccount{
+  top: 334px;
+  left: 338px;
+  width: 262px;
+  height: 120px;  
+}
+.createaccount-text{
+  width:412px ;
+  margin: 0px;
+  padding: 0px;
+}
+.createyour{
+  margin: 0;
+  top: 60px;
+  left: 0px;
+  width: 280px;
+  height: 60px;
+  font-size: 46px;
+  color: #626262;
+  text-align: left;
+  font: normal normal bold 46px/60px Roboto Slab;
+  letter-spacing: 0px;
+}
+.account{
+  margin: 0;
+  top: 60px;
+  left: 0px;
+  width: 175px;
+  height: 60px;
+  font-size: 46px;
+  text-align: left;
+  font: normal normal bold 46px/60px Roboto Slab;
+  letter-spacing: 0px;
+  color: #626262; 
+}
+.createaccount-p{
+  margin-top: 29px;
+  top: 483px;
+  left: 338px;
+  width: 412px;
+  height: 215px;
+  text-align: left;
+  font: normal normal normal 20px/26px Roboto Slab;
+  font-size: 20px;
+  letter-spacing: 0px;
+  color: #A5A5A5;
+  opacity: 1;
+}
+.createaccount-inputs{
+  width: 621px;
+  margin-left: 102px;
+  display: flex;
+  justify-content: space-around;
+}
+.createaccount-div2{  
+  top: 348px;
+  left: 852px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.createaccount-div3{
+  top: 442px;
+  left: 852px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.createaccount-div4{
+  top: 536px;
+  left: 852px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.createaccount-div5{
+  top: 348px;
+  left: 1179px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.createaccount-div6{
+  top: 442px;
+  left: 1179px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.createaccount-div7{
+  top: 536px;
+  left: 1179px;
+  width: 294px;
+  height: 71px;
+  opacity: 1;
+}
+.createaccount-h5{  
+  margin: 23px 0px 10px 0px;
+  text-align: left;
+  font: normal normal bold 16px/21px Roboto Slab;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #F0972A;
+  opacity: 1;
+}
+.createaccount-inputs1{
+  margin: 0px 33px 0px 102px;
+}
+.createaccount-input1{ 
+  top: 379px;
+  left: 852px;
+  width: 294px;
+  height: 40px;
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}
+.createaccount-input2{
+  top: 473px;
+  left: 852px;
+  width: 294px;
+  height: 40px;
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;  
+}
+.createaccount-input3{
+  top: 567px;
+  left: 852px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}
+.createaccount-input4{
+  top: 379px;
+  left: 1179px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}
+.createaccount-input5{
+  top: 473px;
+  left: 1179px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}
+.createaccount-input6{
+  top: 567px;
+  left: 1179px;
+  width: 294px;
+  height: 40px;  
+  background: #F0EFEA 0% 0% no-repeat padding-box;
+  border: 1px solid #A5A5A5;
+  border-radius: 5px;
+  opacity: 1;
+}
+.createaccount-button{
+  margin-top: 42px;
+  top: 649px;
+  left: 852px;
+  width: 202px;
+  height: 40px;
+  border-radius: 5px;
+  background: #96BB36 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+.createaccount-button :any-link{
+  text-decoration: none;
+  color: #FFFFFF;
+}
